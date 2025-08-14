@@ -1,3 +1,4 @@
+<h1 align="center">Hey there 👋, I'm Gyana Ranjan Sahoo</h1>
 
 <!-- Profile Header -->
 <h3 align="center">🎖️ 2nd Runner-Up – @Infosys Global Hackathon 2025 | 👨‍🎓 Final Year B.Tech CSE Student | 💼 Summer Intern @ OSHB (Govt. of Odisha) | 💻 Skilled in Java, C, SQL | 🚀 Open to Internships & Entry-Level Tech Roles</h3>
