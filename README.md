@@ -27,7 +27,6 @@
 
 ---
 
-## 💻 Tech Stack & Skills
 ## 🛠 Tech Stack Visualization
 
 ### **Languages**
@@ -90,8 +89,13 @@
 ## 📈 Coding Profiles
 
 **💡 LeetCode**  
-![LeetCode Stats](PUT-YOUR-LEETCODE-IMAGE-LINK-HERE)  
-[Visit My LeetCode Profile](https://leetcode.com/u/MS723wNgGs/)
+
+<p align="center">
+  <a href="https://leetcode.com/u/MS723wNgGs/">
+    <img src="https://img.shields.io/badge/-Visit%20My%20LeetCode%20Profile-d16c06?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
 
 **💻 GitHub Stats**  
 <p align="center">
