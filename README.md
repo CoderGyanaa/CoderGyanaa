@@ -93,9 +93,16 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/MS723wNgGs/">
+    <img width="800" src="https://github.com/user-attachments/assets/617898a3-de4b-4cb4-8d68-060f98eb5a15" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/MS723wNgGs/">
     <img src="https://img.shields.io/badge/-Visit%20My%20LeetCode%20Profile-d16c06?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
+
 
 
 **💻 GitHub Stats**  
