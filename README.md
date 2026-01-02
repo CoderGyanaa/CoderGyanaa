@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 🎖 **2nd Runner-Up – Infosys Global Hackathon 2025**  
-👨‍🎓 **Final Year B.Tech – CSE @ C.V. Raman Global University** (CGPA: 8.71)  
+👨‍🎓 **Final Year B.Tech – CSE @ C.V. Raman Global University** (CGPA: 8.75)  
 💼 **Summer Intern @ Odisha State Housing Board (Govt. of Odisha)**  
 💡 Building a future in **AI, NLP, and Full Stack Development** that's innovative & human-centered.
 
