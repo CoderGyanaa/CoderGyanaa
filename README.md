@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Gyana Ranjan Sahoo</h1>
 
 <!-- Profile Header -->
-<h3 align="center">🎖️ 2nd Runner-Up – @Infosys Global Hackathon 2025 | 👨‍🎓 Final Year B.Tech CSE Student | 💼 Summer Intern @ OSHB (Govt. of Odisha) | 💻 Skilled in Java, C, SQL | 🚀 Open to Internships & Entry-Level Tech Roles</h3>
+<h3 align="center">🎖️ 2nd Runner-Up – @Infosys Global Hackathon 2025 | 👨‍🎓 Final Year B.Tech CSE Student | 💼 Summer Intern @ OSHB (Govt. of Odisha) | 💻 Skilled in Java , SQL | 🚀 Open to Internships & Entry-Level Tech Roles</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Java+Developer;Frontend+Developer;Full+Stack+Developer;AI+%26+NLP+Enthusiast;Machine+Learning+Learner;Hackathon+Finalist;Problem+Solver;Fast+Learner;Open+to+Opportunities" alt="Typing SVG" />
